@@ -1,0 +1,9 @@
+(
+    \name:    "TextSequencer",
+    \path:    "TextSequencer",
+    \summary: "Use simple string notation to create complex rhythmic patterns.",
+    \author:  "neels@hofmeyr.de",
+    \url:     "http://github.com/neeels/TextSequencer",
+    \helpdoc: "Help/TextSequencer.scd",
+    \since:   "2009"
+)
